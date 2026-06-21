@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Student Portfolio",
+  "description": "High-contrast monochromatic portfolio of an engineering student bridging math, gesture tracking, and creative code.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
